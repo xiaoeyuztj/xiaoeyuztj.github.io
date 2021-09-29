@@ -8,6 +8,7 @@ My current research interest is in fast MRI reconstruction.
 Liu, B., Liu, D., Shen, Q., **Zhang, T**., Garillot, G., Guo, J., ... & Zhu, Y. (2019). Energy reconstruction for a hadronic calorimeter using multivariate data analysis methods. Journal of Instrumentation, 14(10), P10034. (Joint first authors)
 ## Contact
 tianjiao.zhang@foxmail.com
+
 Welcome to follow me:
-![Octocat](https://notes.sjtu.edu.cn/uploads/upload_845ab3279325a36e4b1f064cf6a5b7f0.png)
+![Octocat](https://notes.sjtu.edu.cn/uploads/upload_7034714302c621b65c8370b9b80aec4b.png)
 
