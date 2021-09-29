@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-I am a phd student in [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/) and a intern in Shanghai AI lab. I received a master degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/) and a bachelor degree from [BIT](https://bit.edu.cn/).
+I am a phd student at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/) and a intern at [Shanghai AI lab](https://www.shlab.org.cn/). I received a master degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/) and a bachelor degree from [BIT](https://bit.edu.cn/).
 My current research interest is in fast MRI reconstruction.
 
 ## Publications
 Liu, B., Liu, D., Shen, Q., **Zhang, T**., Garillot, G., Guo, J., ... & Zhu, Y. (2019). Energy reconstruction for a hadronic calorimeter using multivariate data analysis methods. Journal of Instrumentation, 14(10), P10034. (Joint first author)
 
 ## Contact
-tianjiao.zhang@foxmail.com
+[Email](tianjiao.zhang@foxmail.com)/[LinkedIn](https://cn.linkedin.com/in/tianjiao-zhang-%E5%BC%A0%E5%A4%A9%E9%AA%84-b956ba154)/[zhihu](https://www.zhihu.com/people/xiaoeyuztj)
 
 Welcome to follow me:
 
