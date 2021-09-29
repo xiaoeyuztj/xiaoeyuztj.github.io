@@ -2,5 +2,5 @@ title: Tianjiao Zhang
 logo: https://notes.sjtu.edu.cn/uploads/upload_8ea76c0c6557d65b4783e093571d5c84.png
 description: 
 show_downloads: False
-google_analytics:
+google_analytics: True
 theme: jekyll-theme-minimal
