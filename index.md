@@ -9,7 +9,7 @@ My current research interest is in diffusion model and long tail learning.
 - Ziheng Zhao, **Tianjiao Zhang**, Weidi Xie, Yan-Feng Wang, Ya Zhang. K-Space Transformer for Undersampled MRI Reconstruction. BMVC2022.
 - Fei Zhang, Tianfei Zhou, Boyang Li, Hao He, Chaofan Ma, **Tianjiao Zhang**, Jiangchao Yao, Ya Zhang, Yanfeng Wang. Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation. Neurips2023.
 - **Tianjiao Zhang**, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Xiangfeng_Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang. Long-tailed Diffusion Models with Oriented Calibration. ICLR2024.
-- **Tianjiao Zhang** et al.Slice Segmentation Propagator: Propagating the single slice annotation to 3D volume. To appear at Biomedical Signal Processing and Control.
+- **Tianjiao Zhang** et al. Slice Segmentation Propagator: Propagating the single slice annotation to 3D volume. To appear at Biomedical Signal Processing and Control.
 
 ## Contact
 [Email](tianjiao.zhang@foxmail.com)
