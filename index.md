@@ -12,7 +12,10 @@ My current research interest is in diffusion models and long-tail learning.
 - Ziheng Zhao, **Tianjiao Zhang**, Weidi Xie, Yan-Feng Wang, Ya Zhang. K-Space Transformer for Undersampled MRI Reconstruction. BMVC2022.
 - Fei Zhang, Tianfei Zhou, Boyang Li, Hao He, Chaofan Ma, **Tianjiao Zhang**, Jiangchao Yao, Ya Zhang, Yanfeng Wang. Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation. NeurIPs2023.
 
+The full publication can also be found at [scolar]([https://inpac.sjtu.edu.cn/](https://scholar.google.com/citations?user=L_B-PMAAAAAJ&hl=zh-CN))
+
 
 ## Contact
 [Email](tianjiao.zhang@foxmail.com)
+
 
