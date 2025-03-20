@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-I am a phd student at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/). I received a master degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/) and a bachelor degree from [BIT](https://bit.edu.cn/).
-My current research interest is in diffusion model and long tail learning.
+I am a DoE(Doctor of Engineering) student at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/). I received a master's degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/), and a bachelor's degree from [BIT](https://bit.edu.cn/).
+My current research interest is in diffusion models and long-tail learning.
 
 ## Publications
 - **Tianjiao Zhang**, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Xiangfeng_Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang. Long-tailed Diffusion Models with Oriented Calibration. ICLR2024.
@@ -10,7 +10,7 @@ My current research interest is in diffusion model and long tail learning.
 - **Tianjiao Zhang** et al. Tracking the Rareness of Diseases: Improving Long-Tail Medical Detection with a Calibrated Diffusion Model. Electronics2024.
 - Energy reconstruction for a hadronic calorimeter using multivariate data analysis methods. Journal of Instrumentation, 14(10), P10034. (Joint first author)
 - Ziheng Zhao, **Tianjiao Zhang**, Weidi Xie, Yan-Feng Wang, Ya Zhang. K-Space Transformer for Undersampled MRI Reconstruction. BMVC2022.
-- Fei Zhang, Tianfei Zhou, Boyang Li, Hao He, Chaofan Ma, **Tianjiao Zhang**, Jiangchao Yao, Ya Zhang, Yanfeng Wang. Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation. Neurips2023.
+- Fei Zhang, Tianfei Zhou, Boyang Li, Hao He, Chaofan Ma, **Tianjiao Zhang**, Jiangchao Yao, Ya Zhang, Yanfeng Wang. Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation. NeurIPs2023.
 
 
 ## Contact
