@@ -5,8 +5,9 @@ I am a DoE(Doctor of Engineering) student at [MediaBrainGroup](https://mediabrai
 My current research interest is in diffusion models and long-tail learning.
 
 ## Publications
-- **Tianjiao Zhang**, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Xiangfeng_Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang. Long-tailed Diffusion Models with Oriented Calibration. ICLR2024.
-- **Tianjiao Zhang** et al. Slice Segmentation Propagator: Propagating the single slice annotation to 3D volume. To appear at BSPC2025.
+- **Tianjiao Zhang**, Fei Zhang, Jiangchao Yao, Ya Zhang, Yanfeng Wang. G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models. ICME2025. [arxiv](https://arxiv.org/abs/2506.01539).
+- **Tianjiao Zhang**, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Xiangfeng_Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang. Long-tailed Diffusion Models with Oriented Calibration. ICLR2024. [openreview](https://openreview.net/forum?id=NW2s5XXwXU).
+- **Tianjiao Zhang** et al. Slice Segmentation Propagator: Propagating the single slice annotation to 3D volume. Biomedical Signal Processing and Control 2025. 
 - **Tianjiao Zhang** et al. Tracking the Rareness of Diseases: Improving Long-Tail Medical Detection with a Calibrated Diffusion Model. Electronics2024.
 - Energy reconstruction for a hadronic calorimeter using multivariate data analysis methods. Journal of Instrumentation, 14(10), P10034. (Joint first author)
 - Ziheng Zhao, **Tianjiao Zhang**, Weidi Xie, Yan-Feng Wang, Ya Zhang. K-Space Transformer for Undersampled MRI Reconstruction. BMVC2022.
