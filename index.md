@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a DoE(Doctor of Engineering) student at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/). I received a master's degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/), and a bachelor's degree from [BIT](https://bit.edu.cn/).
+I have finished my DoE(Doctor of Engineering) at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/). I received a master's degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/), and a bachelor's degree from [BIT](https://bit.edu.cn/).
 My current research interest is in diffusion models and long-tail learning.
 
 ## Publications
