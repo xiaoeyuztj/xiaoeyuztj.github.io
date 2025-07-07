@@ -2,7 +2,6 @@
 layout: default
 ---
 I have finished my DoE(Doctor of Engineering) at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/) [SJTU](https://www.sjtu.edu.cn/). I received a master's degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/), and a bachelor's degree from [BIT](https://bit.edu.cn/).
-My current research interest is in diffusion models and long-tail learning.
 
 ## Publications
 - **Tianjiao Zhang**, Fei Zhang, Jiangchao Yao, Ya Zhang, Yanfeng Wang. G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models. ICME2025. [arxiv](https://arxiv.org/abs/2506.01539).
@@ -17,5 +16,5 @@ The full publication can also be found at [google scholar](https://scholar.googl
 
 ## Contact
 [Email](tianjiao.zhang@foxmail.com)
-
+I am still on the job market, if you are interested, feel free to contact me!
 
