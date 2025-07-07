@@ -15,6 +15,7 @@ The full publication can also be found at [google scholar](https://scholar.googl
 
 
 ## Contact
-[Email](tianjiao.zhang@foxmail.com)
-I am still on the job market, if you are interested, feel free to contact me!
+Email: tianjiao.zhang At foxmail.com
+
+I am still on the job market. If you are interested, feel free to contact me!
 
