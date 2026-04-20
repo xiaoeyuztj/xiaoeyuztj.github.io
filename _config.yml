@@ -1,0 +1,15 @@
+title: Tianjiao Zhang
+title_cn: 张天骄
+description: "Research Interests: Efficient Image/Video Generation Agents, Complex Multi-Agent Systems & Infrastructure"
+affiliation: "DoE @ MediaBrainGroup, Shanghai Jiao Tong University"
+
+social_links:
+  - label: Email
+    url: "mailto:tianjiao.zhang@foxmail.com"
+    icon: "fa-solid fa-envelope"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=L_B-PMAAAAAJ&hl=zh-CN"
+    icon: "fa-solid fa-graduation-cap"
+  - label: GitHub
+    url: "https://github.com/"
+    icon: "fa-brands fa-github"
