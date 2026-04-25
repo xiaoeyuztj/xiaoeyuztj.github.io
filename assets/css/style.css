@@ -152,6 +152,15 @@ a:hover { color: #1d4ed8; }
   padding: 2.5rem 1.5rem 1rem;
 }
 
+.content-wrap h1 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.25;
+  margin-bottom: 1rem;
+}
+
 .content-wrap h2 {
   font-family: 'Source Serif 4', Georgia, serif;
   font-size: 1.5rem;
@@ -173,18 +182,37 @@ a:hover { color: #1d4ed8; }
   color: #334155;
 }
 
+.content-wrap h3 {
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 1.6rem 0 .7rem;
+}
+
+.content-wrap blockquote {
+  margin: 1rem 0 1.5rem;
+  padding: .9rem 1.1rem;
+  border-left: 4px solid #2563eb;
+  background: #eff6ff;
+  border-radius: 0 10px 10px 0;
+}
+
+.content-wrap blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 .content-wrap strong {
   color: #0f172a;
 }
 
 /* --- News list --- */
-.content-wrap ul {
+body.home .content-wrap ul {
   list-style: none;
   padding: 0;
 }
 
-.content-wrap > ul > li,
-.content-wrap .content-wrap > ul > li {
+body.home .content-wrap > ul > li,
+body.home .content-wrap .content-wrap > ul > li {
   position: relative;
   padding: .6rem 0 .6rem 1.2rem;
   border-left: 3px solid #e2e8f0;
@@ -192,8 +220,49 @@ a:hover { color: #1d4ed8; }
   transition: border-color .2s;
 }
 
-.content-wrap > ul > li:hover {
+body.home .content-wrap > ul > li:hover {
   border-left-color: #2563eb;
+}
+
+body.blog .content-wrap ul,
+body.blog .content-wrap ol {
+  padding-left: 1.4rem;
+  margin: .5rem 0 1rem;
+  color: #334155;
+}
+
+body.blog .content-wrap li {
+  margin-bottom: .35rem;
+}
+
+.blog-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.blog-card {
+  display: block;
+  padding: 1.2rem 1.35rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, .04);
+}
+
+.blog-card:hover {
+  border-color: #93c5fd;
+  transform: translateY(-1px);
+}
+
+.blog-card h3 {
+  margin: 0 0 .35rem;
+}
+
+.blog-meta {
+  color: #64748b;
+  font-size: .88rem;
+  margin-bottom: .45rem;
 }
 
 /* --- Table (Education) --- */
@@ -230,7 +299,7 @@ a:hover { color: #1d4ed8; }
 }
 
 /* --- Publication items --- */
-.content-wrap > ul > li em {
+body.home .content-wrap > ul > li em {
   color: #475569;
 }
 
