@@ -11,16 +11,6 @@ I have finished my Doctor of Engineering (DoE) at [MediaBrainGroup](https://medi
 
 ---
 
-## News
-
-- **2026.04** — Added a personal blog note: [去台州吃点好的，也看点山海]({{ '/blog/taizhou-travel-food-guide/' | relative_url }}).
-- **2025.06** — Paper *G4Seg* accepted at **ICME 2025**.
-- **2025** — Paper *Slice Segmentation Propagator* published in **Biomedical Signal Processing and Control**.
-- **2024** — Paper *Long-tailed Diffusion Models with Oriented Calibration* accepted at **ICLR 2024**.
-- **2023** — Co-authored paper accepted at **NeurIPS 2023**.
-
----
-
 ## Education
 
 | Degree | School | Lab |
