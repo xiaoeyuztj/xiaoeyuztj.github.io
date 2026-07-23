@@ -23,6 +23,8 @@ I have finished my Doctor of Engineering (DoE) at [MediaBrainGroup](https://medi
 
 ## Publications
 
+- Taiyi Su, Jian Zhu, **Tianjiao Zhang**, et al. *DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation.* **arXiv 2026**. [[arXiv]](https://arxiv.org/abs/2605.31286)
+
 - **Tianjiao Zhang**, Fei Zhang, Jiangchao Yao, Ya Zhang, Yanfeng Wang. *G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models.* **ICME 2025**. [[arXiv]](https://arxiv.org/abs/2506.01539)
 
 - **Tianjiao Zhang**, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang. *Long-tailed Diffusion Models with Oriented Calibration.* **ICLR 2024**. [[OpenReview]](https://openreview.net/forum?id=NW2s5XXwXU)
