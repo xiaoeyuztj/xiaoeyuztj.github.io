@@ -29,7 +29,13 @@
   <header class="hero">
     <div class="hero-inner">
       <div class="hero-avatar">
-        <div class="avatar-circle">TZ</div>
+        <img
+          src="{{ '/assets/images/avatar.jpg' | relative_url }}"
+          alt="{{ site.title }}"
+          class="avatar-circle avatar-photo"
+          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+        />
+        <div class="avatar-circle avatar-fallback" style="display:none">TZ</div>
       </div>
       <div class="hero-text">
         <h1>{{ site.title }} <span class="name-cn">{{ site.title_cn }}</span></h1>
