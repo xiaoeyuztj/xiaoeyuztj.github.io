@@ -5,7 +5,7 @@ body_class: home
 
 ## About
 
-I am leaving the AIRC Midea Group(**I am on the job market, if you have interest on me, please contact.**). My research interests lie in **efficient image/video generation agents**, including the development of complex multi-agent systems and related infrastructure.
+I am leaving the AIRC Midea Group in March 2026. My research interests lie in **world models, visual representation learning, and action models**, with a focus on building **visual agents** that unify visual understanding, planning, and action. I believe that visual agents are merely an intermediate stage — the future belongs to latent world models (perhaps JEPA)!
 
 I have finished my Doctor of Engineering (DoE) at [MediaBrainGroup](https://mediabrain.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). I received a master's degree also from SJTU, [INPAC](https://inpac.sjtu.edu.cn/), and a bachelor's degree from [Beijing Institute of Technology (BIT)](https://bit.edu.cn/).
 
